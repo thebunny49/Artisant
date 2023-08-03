@@ -1,0 +1,9 @@
+body{
+    background-color: #F7F8FA;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgb(157, 157, 157)!important;
+  }
+.d1::-webkit-scrollbar {
+    display: none;
+  }

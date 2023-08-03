@@ -1,0 +1,25 @@
+p{
+    color: '#E1E1E1';
+    
+ font-Size: 12px;
+  font-Family: 'Inter';
+  font-Weight: '400';
+  
+  color:rgb(225, 225, 225);
+    letter-Spacing: 0.80;
+    word-Wrap: 'break-word'
+}
+.user::-webkit-scrollbar {
+  display: none;
+}
+.heading{
+  font-size: 14px;
+}
+@media (max-width:877px){
+  .footer{
+    font-size: 10px;
+  }
+  .heading{
+    font-size: 12px;
+  }
+}
